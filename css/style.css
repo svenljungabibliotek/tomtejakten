@@ -1,0 +1,23 @@
+.btn-primary{
+	background-color: rgb(189, 20, 20);
+}
+
+#services{
+	background-color:rgb(189, 20, 20);
+	color: white;
+}
+
+p{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+}
+
+#services img{
+	max-width: 100%;
+}
+
+header.masthead {
+    background-image: url("../img/julbakgrund.jpg");
+}
+
+
